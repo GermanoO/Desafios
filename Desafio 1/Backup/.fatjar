@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Jul 07 14:50:41 BRT 2011
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=pushFile4PL.jar
+manifest.mergeall=true
+manifest.mainclass=Main
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
